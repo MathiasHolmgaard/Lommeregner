@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 namespace Lommeregner
 
 {
-        /* Hele denne class skal rettes til
 
     internal class Calculator
     {
@@ -29,5 +28,5 @@ namespace Lommeregner
             return x * y;
         }
     }
-        */
+ 
 }
